@@ -5,7 +5,7 @@ function Nav_bar() {
     <div>
       <nav class="flex items-center justify-between my-10">
         <div>
-          <img src="public/assets/img/logo.png" alt="" class="w-54.75" />
+          <img src="/assets/img/logo.png" alt="" class="w-54.75" />
         </div>
 
         <div class="hidden md:flex items-center gap-10">

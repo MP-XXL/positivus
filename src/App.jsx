@@ -4,11 +4,14 @@
 // import heroImg from './assets/hero.png'
 import './App.css'
 import Case_study from './components/Case_study';
+import Contact_us from './components/Contact_us';
+import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Nav_bar from './components/Nav_bar';
 import Our_working_process from './components/Our_working_process';
 import Services from './components/Services';
 import Team from './components/Team';
+import Testimonials from './components/Testimonials';
 
 
 function App() {
@@ -22,6 +25,9 @@ function App() {
       <Case_study />
       <Our_working_process />
       <Team />
+      <Testimonials />
+      <Contact_us />
+      <Footer />
     </>
   )
 }

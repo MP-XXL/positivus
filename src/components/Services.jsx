@@ -11,12 +11,12 @@ function Services() {
         </p>
       </div>
       <div class="grid grid-cols-1 gap-5 md:grid-cols-2 my-10">
-        <div> <a href=""><img src="public/assets/img/seo.png" alt="" /></a></div>
-        <div> <a href=""><img src="public/assets/img/ppAd.png" alt="" /></a></div>
-        <div> <a href=""><img src="public/assets/img/smm.png" alt="" /></a></div>
-        <div> <a href=""><img src="public/assets/img/em.png" alt="" /></a></div>
-        <div> <a href=""><img src="public/assets/img/cc.png" alt="" /></a></div>
-        <div> <a href=""><img src="public/assets/img/ant.png" alt="" /></a></div>
+        <div> <a href=""><img src="/assets/img/seo.png" alt="" /></a></div>
+        <div> <a href=""><img src="/assets/img/ppAd.png" alt="" /></a></div>
+        <div> <a href=""><img src="/assets/img/smm.png" alt="" /></a></div>
+        <div> <a href=""><img src="/assets/img/em.png" alt="" /></a></div>
+        <div> <a href=""><img src="/assets/img/cc.png" alt="" /></a></div>
+        <div> <a href=""><img src="/assets/img/ant.png" alt="" /></a></div>
       </div>
 
       <div class="bg-[#F3F3F3] rounded-4xl relative flex flex-col gap-5 items-center md:flex-row">
@@ -30,7 +30,7 @@ function Services() {
             </a>
         </div>
         <div class="md:absolute right-28">
-            <img class="w-60" src="public/assets/img/propImg.png" alt="" />
+            <img class="w-60" src="/assets/img/propImg.png" alt="" />
         </div>
       </div>
     </div>

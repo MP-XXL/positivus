@@ -20,17 +20,17 @@ function Hero() {
           </a>
         </div>
         <div>
-          <img src="public/assets/img/Illustration.png" alt="" class="w-150" />
+          <img src="/assets/img/Illustration.png" alt="" class="w-150" />
         </div>
       </div>
 
       <div class="grid grid-cols-2 gap-10 py-10 md:grid-cols-3 lg:grid-cols-6">
-        <div><img src="public/assets/img/amazon.png" alt="" /></div>
-        <div><img src="public/assets/img/dribble.png" alt="" /></div>
-        <div><img src="public/assets/img/hubspot.png" alt="" /></div>
-        <div><img src="public/assets/img/notion.png" alt="" /></div>
-        <div><img src="public/assets/img/netflix.png" alt="" /></div>
-        <div><img src="public/assets/img/zoom.png" alt="" /></div>
+        <div><img src="/assets/img/amazon.png" alt="" /></div>
+        <div><img src="/assets/img/dribble.png" alt="" /></div>
+        <div><img src="/assets/img/hubspot.png" alt="" /></div>
+        <div><img src="/assets/img/notion.png" alt="" /></div>
+        <div><img src="/assets/img/netflix.png" alt="" /></div>
+        <div><img src="/assets/img/zoom.png" alt="" /></div>
       </div>
     </div>
   );
