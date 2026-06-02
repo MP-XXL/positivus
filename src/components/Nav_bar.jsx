@@ -10,11 +10,11 @@ function Nav_bar() {
 
         <div class="hidden md:flex items-center gap-10">
           <ul class="flex gap-10">
-            <li>About us</li>
-            <li>Services</li>
-            <li>Use Cases</li>
-            <li>Pricing</li>
-            <li>Blog</li>
+            <li><a href="">About us</a></li>
+            <li><a href="">Services</a></li>
+            <li><a href="">Use Cases</a></li>
+            <li><a href="">Pricing</a></li>
+            <li><a href="">Blog</a></li>
           </ul>
 
           <a href="">

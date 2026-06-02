@@ -3,9 +3,13 @@
 // import viteLogo from './assets/vite.svg'
 // import heroImg from './assets/hero.png'
 import './App.css'
+import Case_study from './components/Case_study';
 import Hero from './components/Hero';
 import Nav_bar from './components/Nav_bar';
+import Our_working_process from './components/Our_working_process';
 import Services from './components/Services';
+import Team from './components/Team';
+
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -15,6 +19,9 @@ function App() {
       <Nav_bar />
       <Hero />
       <Services />
+      <Case_study />
+      <Our_working_process />
+      <Team />
     </>
   )
 }
