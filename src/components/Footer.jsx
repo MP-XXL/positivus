@@ -3,13 +3,13 @@ import React from 'react'
 function Footer() {
   return (
     <div className="bg-[#191A23] p-5 rounded-tl-4xl rounded-tr-4xl text-white flex flex-col gap-10 md:p-16">
-      <div class="flex flex-col gap-5 items-center justify-between my-10 md:flex-row">
+      <div className="flex flex-col gap-5 items-center justify-between my-10 md:flex-row">
         <div>
-          <img src="/assets/img/Logo-white.png" alt="" class="w-54.75" />
+          <img src="/assets/img/Logo-white.png" alt="" className="w-54.75" />
         </div>
 
-        <div class="flex flex-col items-center justify-center gap-10 md:flex-row">
-          <ul class="flex flex-col gap-3 md:flex-row md:gap-10">
+        <div className="flex flex-col items-center justify-center gap-10 md:flex-row">
+          <ul className="flex flex-col gap-3 md:flex-row md:gap-10">
             <li>
               <a href="">About us</a>
             </li>
@@ -58,7 +58,7 @@ function Footer() {
           </div>
 
            <a href="">
-            <button class="bg-black text-white p-2.5 rounded-xl w-full">
+            <button className="bg-black text-white p-2.5 rounded-xl w-full">
               Subscribe to news
             </button>
           </a>

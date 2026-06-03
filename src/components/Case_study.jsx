@@ -4,8 +4,8 @@ import { MdArrowOutward } from "react-icons/md"
 function Case_study() {
   return (
     <div className="flex flex-col gap-8 my-14">
-      <div class="flex flex-col gap-10 md:flex-row">
-        <h3 class="bg-[#B9FF66] p-2 rounded-md max-w-fit text-2xl font-medium">
+      <div className="flex flex-col gap-10 md:flex-row">
+        <h3 className="bg-[#B9FF66] p-2 rounded-md max-w-fit text-2xl font-medium">
           Case Studies
         </h3>
         <p>

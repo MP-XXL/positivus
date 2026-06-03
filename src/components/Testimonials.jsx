@@ -7,8 +7,8 @@ import { RiShining2Fill } from "react-icons/ri";
 function Testimonials() {
   return (
     <div className="flex flex-col gap-10 py-10">
-      <div class="flex flex-col gap-10 md:flex-row">
-        <h3 class="bg-[#B9FF66] p-2 rounded-md max-w-fit text-2xl font-medium">
+      <div className="flex flex-col gap-10 md:flex-row">
+        <h3 className="bg-[#B9FF66] p-2 rounded-md max-w-fit text-2xl font-medium">
           Testimonials
         </h3>
         <p>
