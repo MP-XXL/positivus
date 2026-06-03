@@ -17,7 +17,7 @@ function Testimonials() {
         </p>
       </div>
 
-      <div className="bg-[#191A23] flex flex-col gap-5 text-xs rounded-4xl py-10 overflow-x-hidden">
+      <div className="bg-[#191A23] flex flex-col gap-5 text-xs rounded-4xl py-10">
         <div className="grid grid-cols-1 gap-5 md:grid-cols-3">
           <div>
             <div className="mb-5">
